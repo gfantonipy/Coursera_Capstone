@@ -1,0 +1,74 @@
+NºBorough,Borough,NºNeighbourhood,Neighbourhood
+1,Ciutat Vella,1,El Raval
+1,Ciutat Vella,2,Barrio Gótico
+1,Ciutat Vella,3,La Barceloneta
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera"
+2,Eixample,5,El Fort Pienc
+2,Eixample,6,Sagrada Familia
+2,Eixample,7,La Derecha del Ensanche
+2,Eixample,8,L'Antiga Esquerra de l'Eixample
+2,Eixample,9,La Nova Esquerra de l'Eixample
+2,Eixample,10,Sant Antoni
+3,Sants-Montjuïc,11,Poble Sec
+3,Sants-Montjuïc,12,La Marina del Prat Vermell
+3,Sants-Montjuïc,13,La Marina de Port
+3,Sants-Montjuïc,14,La Font de la Guatlla
+3,Sants-Montjuïc,15,Hostafrancs
+3,Sants-Montjuïc,16,La Bordeta
+3,Sants-Montjuïc,17,Sants-Badal
+3,Sants-Montjuïc,18,Sants
+4,Les Corts,19,Les Corts
+4,Les Corts,20,La Maternitat i Sant Ramon
+4,Les Corts,21,Pedralbes
+5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes"
+5,Sarrià-Sant Gervasi,23,Sarrià
+5,Sarrià-Sant Gervasi,24,Las Tres Torres
+5,Sarrià-Sant Gervasi,25,Sant Gervasi-Bonanova
+5,Sarrià-Sant Gervasi,26,Sant Gervasi-Galvany
+5,Sarrià-Sant Gervasi,27,El Putxet i Farró
+6,Gràcia,28,Vallcarca i els Penitents
+6,Gràcia,29,El Coll
+6,Gràcia,30,La Salut
+6,Gràcia,31,Vila de Gràcia
+6,Gràcia,32,Camp d'en Grassot i Gràcia Nova
+7,Horta - Guinardó,33,Baix Guinardó
+7,Horta - Guinardó,34,Can Baró
+7,Horta - Guinardó,35,El Guinardó
+7,Horta - Guinardó,36,La Font d'en Fargues
+7,Horta - Guinardó,37,El Carmelo
+7,Horta - Guinardó,38,La Teixonera
+7,Horta - Guinardó,39,Sant Genís dels Agudells
+7,Horta - Guinardó,40,Montbau
+7,Horta - Guinardó,41,La Vall d'Hebrón
+7,Horta - Guinardó,42,La Clota
+7,Horta - Guinardó,43,Horta
+8,Nou Barris,44,Vilapicina i La Torre Llobeta
+8,Nou Barris,45,Porta
+8,Nou Barris,46,Turó de la Peira
+8,Nou Barris,47,Can Peguera
+8,Nou Barris,48,La Guineueta
+8,Nou Barris,49,Canyelles
+8,Nou Barris,50,Les Roquetes
+8,Nou Barris,51,Verdún
+8,Nou Barris,52,La Prosperitat
+8,Nou Barris,53,La Trinitat Nova
+8,Nou Barris,54,Torre Baró
+8,Nou Barris,55,Ciudad Meridiana
+8,Nou Barris,56,Vallbona
+9,Sant Andreu,57,La Trinitat Vella
+9,Sant Andreu,58,Baró de Viver
+9,Sant Andreu,59,El Buen Pastor
+9,Sant Andreu,60,San Andrés
+9,Sant Andreu,61,La Sagrera
+9,Sant Andreu,62,Congrés i els Indians
+9,Sant Andreu,63,Navas
+10,Sant Martí,64,El Camp de l'Arpa del Clot
+10,Sant Martí,65,El Clot
+10,Sant Martí,66,El Parc i la Llacuna del Poblenou
+10,Sant Martí,67,La Vila Olímpica del Poblenou
+10,Sant Martí,68,Poble Nou
+10,Sant Martí,69,Diagonal Mar i Front Marítim del Poblenou
+10,Sant Martí,70,El Besòs i el Maresme
+10,Sant Martí,71,Provençals del Poblenou
+10,Sant Martí,72,Sant Martí de Provençals
+10,Sant Martí,73,La Verneda i la Pau
